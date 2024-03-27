@@ -1,0 +1,50 @@
+h1
+{
+    color: rgb(8, 8, 8);
+    font-size: 50px;
+    font-family:fantasy;
+}
+#h2
+{
+    color:rgb(8, 8, 8);
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+span
+{
+    display: block;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+p
+{
+    color:black;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+a
+{
+    color: rgb(7, 1, 12);
+    text-decoration: none;
+    transition: color 0.5s;
+}
+a:hover
+{
+    text-decoration: black;
+    color: rgb(210, 30, 30);
+}
+.pics1
+{
+    width: 30%;
+}
+.pics2
+{
+    width: 30%
+}
+figcaption
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+}
